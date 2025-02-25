@@ -2,6 +2,7 @@ body{
   font-family:'Times New Roman', Times, serif;
   font-size:115%;
   margin:auto;
+  background-color:gray;
 }
 header{
   background-color:gray;
@@ -39,7 +40,7 @@ nav a:hover{ /*hover portion is psudocode that has different options for links i
             background-color:aliceblue;
         }
 nav li{
-  border-radius:60px; /*curve of each corner*/
+            border-radius:60px; /*curve of each corner*/
             padding:.5em;
             color:#FFFFFF;
             background-color:#E38690;
