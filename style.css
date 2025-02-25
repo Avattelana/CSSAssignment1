@@ -26,6 +26,7 @@ li{
   width:90%;
 }
 .button{
+            border:1;
             border-radius:60px; /*curve of each corner*/
             padding:.5em;
             color:black;
