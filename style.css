@@ -1,18 +1,21 @@
 body{
   font-family:'Times New Roman', Times, serif;
   font-size:115%;
-  display:table-cell;
+  margin:auto;
 }
 header{
   background-color:gray;
+  margin:auto;
 }
 nav{
   background-color:aqua;
+  margin:auto;
 }
 main{
   background-color:navy;
   font-size:120%;
   color:white;
+  margin:auto;
 }
 footer{
   background-color:black;
