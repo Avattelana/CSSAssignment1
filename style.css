@@ -1,0 +1,32 @@
+body{
+  font-family:'Times New Roman', Times, serif;
+  font-size:115%;
+}
+header{
+  background-color:gray;
+}
+nav{
+  background-color:aqua;
+}
+main{
+  background-color:navy;
+  font-size:120%;
+  color:white;
+}
+footer{
+  background-color:black;
+  color:white;
+}
+li{
+  display:table-cell;
+  width:90%;
+}
+h1{
+  text-align:center;
+  font-family:'Times New Roman', Times, serif;;
+  color:white;
+  background-color:black;
+}
+p{
+  line-height:115%;
+}
