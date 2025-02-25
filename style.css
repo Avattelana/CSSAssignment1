@@ -27,6 +27,7 @@ li{
 }
 .button{
             border:1;
+            list-style-type:none;
             border-radius:60px; /*curve of each corner*/
             padding:.5em;
             color:black;
