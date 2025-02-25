@@ -7,6 +7,7 @@ body{
 header{
   background-color:gray;
   margin:auto;
+  border-radius:60px;
 }
 nav{
   background-color:aqua;
@@ -25,9 +26,9 @@ li{
   margin:auto;
 }
 .button{
+            border-radius:60px;
             border:1;
             list-style-type:none;
-            border-radius:60px; /*curve of each corner*/
             padding:.5em;
             color:black;
             background-color:#red;
