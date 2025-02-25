@@ -28,8 +28,8 @@ li{
 nav li{
             border-radius:60px; /*curve of each corner*/
             padding:.5em;
-            color:#FFFFFF;
-            background-color:#E38690;
+            color:black;
+            background-color:#red;
             font-size:1em;
             font-weight:bold;
             text-align:center;
