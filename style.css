@@ -25,7 +25,7 @@ footer{
 li{
   width:90%;
 }
-nav ul{
+.button{
             border-radius:60px; /*curve of each corner*/
             padding:.5em;
             color:black;
