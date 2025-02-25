@@ -26,7 +26,12 @@ h1{
   font-family:'Times New Roman', Times, serif;;
   color:white;
   background-color:black;
+  text-shadow:3px 3px 5px #2658d7; 
 }
 p{
   line-height:115%;
 }
+nav a:hover{ /*hover portion is psudocode that has different options for links in nav*/
+            color:#DDB4E8;
+            background-color:aliceblue;
+        }
