@@ -18,7 +18,7 @@ footer{
   color:white;
 }
 li{
-  display:table-cell;
+  display:inline;
   width:90%;
 }
 h1{
